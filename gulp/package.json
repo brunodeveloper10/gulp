@@ -1,0 +1,23 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cod3r",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.70.0",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglifycss": "^1.1.0",
+    "node-sass": "^9.0.0"
+  }
+}
